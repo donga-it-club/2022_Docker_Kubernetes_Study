@@ -12,7 +12,7 @@
 
 ## 스터디 방식
 
-- 도현님의 AWS_class_resources 중 **Running_Containers_on_EKS(https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)** 를 완료하는 것을 목표로 진행합니다.
+- 도현님의 AWS_class_resources 중 **[Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)** 를 완료하는 것을 목표로 진행합니다.
 - 매주 x 요일 x 시간에 진행합니다.
 
 ## 스터디 진행 상황
