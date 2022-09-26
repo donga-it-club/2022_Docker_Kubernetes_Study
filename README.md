@@ -8,8 +8,9 @@
 - 도기범 ([Github](https://github.com/dkswnkk) / [Blog](https://dkswnkk.tistory.com))
 - 신혜진 ([Github](https://github.com/toki0411) / [Blog](https://toki0411.tistory.com))
 - 안주형 ([Github](https://github.com/dkswnkk) / [Blog](https://dkswnkk.tistory.com))
+- 정민석 ([Github](https://github.com/200000001) / [Blog](https://minseok-study.tistory.com))
 - 조민지
-- 
+- 황진성 ([Github](https://github.com/JinseongHwang) / [Blog](https://jinseong.site))
 
 ## 스터디 방식
 
