@@ -18,7 +18,12 @@
 - 매주 토요일 19시에 진행합니다.
 
 ## 스터디 진행 상황
-### 1주차 OT 예정 (22.10.01)
+### 1주차 OT (22.10.01)
 
-- [발표자료] PPT_미리캔버스(https://www.miricanvas.com/v/11frtx9)
-- [발표영상] 구글드라이브(https://drive.google.com/file/d/1Qz7dw0tA2bHzrQ6NLnPvzgF0NtCMOpZD/view)
+- [발표자료] : [발표자료 PPT](https://www.miricanvas.com/v/11frtx9)
+- [발표영상] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1Qz7dw0tA2bHzrQ6NLnPvzgF0NtCMOpZD/view)
+
+### 2주차 __예정 (22.10.08)
+
+- [발표자료] : [발표자료]
+- [발표영상] : [발표영상]
