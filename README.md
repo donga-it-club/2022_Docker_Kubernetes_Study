@@ -20,5 +20,5 @@
 ## 스터디 진행 상황
 ### 1주차 OT 예정 (22.10.01)
 
-- [발표자료]
-- [발표영상]
+- [발표자료] PPT_미리캔버스(https://www.miricanvas.com/v/11frtx9)
+- [발표영상] 구글드라이브(https://drive.google.com/file/d/1Qz7dw0tA2bHzrQ6NLnPvzgF0NtCMOpZD/view)
