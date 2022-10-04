@@ -15,15 +15,25 @@
 ## 스터디 방식
 
 - 도현님의 AWS_class_resources 중 **[Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)** 를 완료하는 것을 목표로 진행합니다.
-- 매주 토요일 19시에 진행합니다.
+- 세부 목표 : 1. 도커 컨테이너의 이해 2. 오케스트레이션 툴 중 쿠버네티스의 이해와 활용
+- 매주 토요일 19시에 학습내용의 글을 정리 후 발표하는 형식으로 진행됩니다.
+
+## 스터디 규칙
+
+- 불가피한 사정이 아니면 가능한 참석합니다. 만약 사정이 있다면 **적어도 하루 전**에는 사정을 공유합니다
+- 모르는 부분 등은 단톡방에서 서로 **공유**합니다
+- 매주 참여하는 스터디 멤버 모두 한 마디라도 **발표**하는 시간은 갖습니다
+- 스터디에 참여할 때, 가능한 모두 줌과 마이크를 켜고 참여합니다
 
 ## 스터디 진행 상황
-### 1주차 OT (22.10.01)
+### 1주차 (22.10.01)
 
+- [학습내용] : 스터디 오리엔테이션
 - [발표자료] : [발표자료 PPT](https://www.miricanvas.com/v/11frtx9)
 - [발표영상] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1Qz7dw0tA2bHzrQ6NLnPvzgF0NtCMOpZD/view)
 
-### 2주차 __예정 (22.10.08)
+### 2주차 (22.10.08)
 
-- [발표자료] : [발표자료]
-- [발표영상] : [발표영상]
+- [학습내용] : [Running Conatiners on EKS 중 '컨테이너란? 리눈스의 프로세스 격리 기능' 부분](https://www.44bits.io/ko/keyword/linux-container)
+- [발표자료] : 
+- [발표영상] : 
