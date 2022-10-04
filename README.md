@@ -34,6 +34,6 @@
 
 ### 2주차 (22.10.08)
 
-- [학습내용] : [Running Conatiners on EKS 중 '컨테이너란? 리눈스의 프로세스 격리 기능' 부분](https://www.44bits.io/ko/keyword/linux-container)
+- [학습내용] : [Running Conatiners on EKS 중 '컨테이너란? 리눅스의 프로세스 격리 기능' 부분](https://www.44bits.io/ko/keyword/linux-container)
 - [발표자료] : 
 - [발표영상] : 
