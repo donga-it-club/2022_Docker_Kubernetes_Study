@@ -39,9 +39,20 @@
 
 - [발표자 1]   : [최승현](https://github.com/Vulter3653)
 - [발표자료 1] : [발표자료 Blog](https://vulter3653.tistory.com/23)
-- [발표영상 1] : [발표영상 구글 드라이브]
+- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sGA7c7Vu9o5ZXtkuhChI-8_BNU_hSX2o/view?usp=sharing)
 
 - [발표자 2]   : [신혜진](https://github.com/toki0411)
 - [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/23)
-- [발표영상 2] : [발표영상 구글 드라이브]
+- [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/15zuREiqW1MPnnL_efs8QVTvCdL8jhqul/view?usp=sharing)
 
+### 3주차 예정 (22.10.29)
+
+- [학습내용] :
+
+- [발표자 1]   : 
+- [발표자료 1] : 
+- [발표영상 1] : 
+
+- [발표자 2]   : 
+- [발표자료 2] : 
+- [발표영상 2] : 
