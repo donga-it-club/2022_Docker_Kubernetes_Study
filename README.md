@@ -36,9 +36,11 @@
 ### 2주차 (22.10.08)
 
 - [학습내용] : [Running Conatiners on EKS 중 '컨테이너란? 리눅스의 프로세스 격리 기능' 부분](https://www.44bits.io/ko/keyword/linux-container)
+
 - [발표자 1]   : [최승현](https://github.com/Vulter3653)
 - [발표자료 1] : [발표자료 Blog](https://vulter3653.tistory.com/23)
 - [발표영상 1] : [발표영상 구글 드라이브]
+
 - [발표자 2]   : [신혜진](https://github.com/toki0411)
 - [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/23)
 - [발표영상 2] : [발표영상 구글 드라이브]
