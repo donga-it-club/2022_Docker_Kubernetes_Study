@@ -5,7 +5,7 @@
 - 최승현(리더) ([Github](https://github.com/Vulter3653) / [Blog](https://vulter3653.tistory.com))
 - 김정빈 ([Github](http://github.com/glory6833) / [Blog](https://blog.naver.com/kjb7755))
 - 김태욱 ([Github](https://github.com/kevlvj6))
-- 도기범 ([Github](https://github.com/dkswnkk) / [Blog])
+- 도기범 ([Github](https://github.com/dkswnkk) / [Blog](https://ford.tistory.com/))
 - 신혜진 ([Github](https://github.com/toki0411) / [Blog](https://toki0411.tistory.com))
 - 안주형 ([Github](https://github.com/dkswnkk) / [Blog](https://dkswnkk.tistory.com))
 - 정민석 ([Github](https://github.com/200000001) / [Blog](https://minseok-study.tistory.com))
