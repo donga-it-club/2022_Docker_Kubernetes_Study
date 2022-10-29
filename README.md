@@ -45,9 +45,9 @@
 
 ### 3주차 예정 (22.10.29)
 
-- [학습내용] :
+- [학습내용] : [도커 이미지 빌드와 Dockerfule 기초](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 
-- [발표자 1]   : 
+- [발표자 1]   :
 - [발표자료 1] : 
 - [발표영상 1] : 
 
