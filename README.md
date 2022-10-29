@@ -45,7 +45,7 @@
 
 ### 3주차  (22.10.29)
 
-- [학습내용] : [도커 이미지 빌드와 Dockerfule 기초](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
+- [학습내용] : [도커 이미지 빌드와 Dockerfle 기초](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 
 - [발표자 1]   : [도기범](https://github.com/GBDO)
 - [발표자료 1] : [발표자료 Blog](https://ford.tistory.com/43)
