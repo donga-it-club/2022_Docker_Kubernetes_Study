@@ -43,9 +43,18 @@
 - [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/23)
 - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/15zuREiqW1MPnnL_efs8QVTvCdL8jhqul/view?usp=sharing)
 
-### 3주차 예정 (22.10.29)
+### 3주차  (22.10.29)
 
 - [학습내용] : [도커 이미지 빌드와 Dockerfule 기초](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
+
+- [발표자 1]   : [도기범](https://github.com/GBDO)
+- [발표자료 1] : [발표자료 Blog](https://ford.tistory.com/43)
+- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1Esj-GbRzkNbwC02IDwgFT7hqRwqdvuZ6/view?usp=sharing)
+
+
+### 4주차 예정 (22.11.05)
+
+- [학습내용] :
 
 - [발표자 1]   :
 - [발표자료 1] : 
