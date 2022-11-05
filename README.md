@@ -52,11 +52,11 @@
 - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1Esj-GbRzkNbwC02IDwgFT7hqRwqdvuZ6/view?usp=sharing)
 
 
-### 4주차 예정 (22.11.05)
+### 4주차 예정 (22.11.12)
 
-- [학습내용] :
+- [학습내용] : [도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
 
-- [발표자 1]   :
+- [발표자 1]   : 
 - [발표자료 1] : 
 - [발표영상 1] : 
 
