@@ -3,7 +3,6 @@
 
 ## 스터디 멤버
 - 최승현(리더) ([Github](https://github.com/Vulter3653) / [Blog](https://vulter3653.tistory.com))
-- 김태욱 ([Github](https://github.com/kevlvj6))
 - 도기범 ([Github](https://github.com/GBDO) / [Blog](https://ford.tistory.com/))
 - 신혜진 ([Github](https://github.com/toki0411) / [Blog](https://toki0411.tistory.com))
 - 안주형 ([Github](https://github.com/dkswnkk) / [Blog](https://dkswnkk.tistory.com))
