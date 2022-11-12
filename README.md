@@ -14,6 +14,7 @@
 - 도현님의 AWS_class_resources 중 **[Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)** 를 완료하는 것을 목표로 진행합니다.
 - 세부 목표 : 1. 도커 컨테이너의 이해 2. 오케스트레이션 툴 중 쿠버네티스의 이해와 활용
 - 매주 토요일 19시에 학습내용의 글을 정리 후 발표하는 형식으로 진행됩니다.
+  (주 토요일 17시에 진행으로 변경 예정/ 22.11.12 의견 -> 22.11.19 테스트)
 
 ## 스터디 규칙
 
@@ -51,10 +52,22 @@
 - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1Esj-GbRzkNbwC02IDwgFT7hqRwqdvuZ6/view?usp=sharing)
 
 
-### 4주차 예정 (22.11.12)
+### 4주차 (22.11.12)
 
 - [학습내용] : [도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
 
-- [발표자 1]   : 
+- [발표자 1]   : [정민석](https://github.com/200000001)
+- [발표자료 1] : [발표자료 Blog](https://minseok-study.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EA%B5%AC%EC%A1%B0)
+- [발표영상 1] : [발표영상 구글 드라이브](
+
+### 5주차 예정 (22.11.19)
+
+- [학습내용] : [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
+
+- [발표자 1]   : [안주형](https://github.com/dkswnkk)
 - [발표자료 1] : 
 - [발표영상 1] : 
+
+- [발표자 2]   : [최승현](https://github.com/Vulter3653)
+- [발표자료 2] : 
+- [발표영상 2] : 
