@@ -58,7 +58,7 @@
 
 - [발표자 1]   : [정민석](https://github.com/200000001)
 - [발표자료 1] : [발표자료 Blog](https://minseok-study.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EA%B5%AC%EC%A1%B0)
-- [발표영상 1] : [발표영상 구글 드라이브](
+- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1QLvCxDxjQ00y2AEuSNFnqGysvqaaSJRu/view?usp=sharing)
 
 ### 5주차 예정 (22.11.19)
 
