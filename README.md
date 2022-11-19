@@ -15,6 +15,7 @@
 - 세부 목표 : 1. 도커 컨테이너의 이해 2. 오케스트레이션 툴 중 쿠버네티스의 이해와 활용
 - 매주 토요일 19시에 학습내용의 글을 정리 후 발표하는 형식으로 진행됩니다.
   (주 토요일 17시에 진행으로 변경 예정/ 22.11.12 의견 -> 22.11.19 테스트)
+  (주 토요일 18시에 진행으로 시간 조정 예정/ 22.11.17 의견 -> 22.11.26 테스트)
 
 ## 스터디 규칙
 
@@ -60,14 +61,26 @@
 - [발표자료 1] : [발표자료 Blog](https://minseok-study.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EA%B5%AC%EC%A1%B0)
 - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1QLvCxDxjQ00y2AEuSNFnqGysvqaaSJRu/view?usp=sharing)
 
-### 5주차 예정 (22.11.19)
+### 5주차 (22.11.19)
 
 - [학습내용] : [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
 - [발표자 1]   : [안주형](https://github.com/dkswnkk)
+- [발표자료 1] : [발표자료 Notion](https://dkswnkk.notion.site/02cb560528874a6dbac5d680e100d1a2)
+- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1-RmNn_DnHveDt8PYbatlFj-tgIf4KcVO/view?usp=sharing)
+
+- [발표자 2]   : [최승현](https://github.com/Vulter3653)
+- [발표자료 2] : [발표자료 Blog](https://vulter3653.tistory.com/28)
+- [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1DhkJal2c2r6F7jj17bWrbuNf8_gc9ZzR/view?usp=sharing)
+
+### 5주차 (22.11.19)
+
+- [학습내용] : [The Twelve-Factor Apps](https://12factor.net/ko/)
+
+- [발표자 1]   : [신혜진](https://github.com/toki0411)
 - [발표자료 1] : 
 - [발표영상 1] : 
 
-- [발표자 2]   : [최승현](https://github.com/Vulter3653)
-- [발표자료 2] : 
+- [발표자 2]   : [정민석](https://github.com/200000001)
+- [발표자료 2] :
 - [발표영상 2] : 
