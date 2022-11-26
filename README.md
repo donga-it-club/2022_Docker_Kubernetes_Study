@@ -14,8 +14,7 @@
 - 도현님의 AWS_class_resources 중 **[Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)** 를 완료하는 것을 목표로 진행합니다.
 - 세부 목표 : 1. 도커 컨테이너의 이해 2. 오케스트레이션 툴 중 쿠버네티스의 이해와 활용
 - 매주 토요일 19시에 학습내용의 글을 정리 후 발표하는 형식으로 진행됩니다. 
-  (주 토요일 17시에 진행으로 변경 예정/ 22.11.12 의견 -> 22.11.19 테스트)
-  (주 토요일 18시에 진행으로 시간 조정 예정/ 22.11.17 의견 -> 22.11.26 테스트)
+  (주 토요일 17시 변경 의견 (22.11.12) -> 18시로 시간 조정 (22.11.19) -> 22.11.26 테스트)
 
 ## 스터디 규칙
 
@@ -73,7 +72,7 @@
 - [발표자료 2] : [발표자료 Blog](https://vulter3653.tistory.com/28)
 - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1DhkJal2c2r6F7jj17bWrbuNf8_gc9ZzR/view?usp=sharing)
 
-### 5주차 (22.11.19)
+### 6주차 (22.11.26)
 
 - [학습내용] : [The Twelve-Factor Apps](https://12factor.net/ko/)
 
