@@ -77,9 +77,21 @@
 - [학습내용] : [The Twelve-Factor Apps](https://12factor.net/ko/)
 
 - [발표자 1]   : [신혜진](https://github.com/toki0411)
+- [발표자료 1] : [발표자료 Blog](https://toki0411.tistory.com/32)
+- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1-KsPGcFl5lKUEf1jtYUxwkETTarFrq9l/view?usp=sharing)
+
+- [발표자 2]   : [정민석](https://github.com/200000001)
+- [발표자료 2] : [발표자료 Blog](https://minseok-study.tistory.com/entry/12-Factor-App)
+- [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1huFt3st3dFC6GJb__U5VIh-TMPlz10s3/view?usp=sharing)
+
+### 7주차 (22.12.03 예정)
+
+- [학습내용] : [컨테이너와 서버리스 기술을 통한 디지털 트랜스포메이션](https://www.slideshare.net/awskorea/digital-transformation-by-container-and-servelss-technology-do-hyun-jung-2)
+
+- [발표자 1]   : [황진성](https://github.com/JinseongHwang)
 - [발표자료 1] : 
 - [발표영상 1] : 
 
-- [발표자 2]   : [정민석](https://github.com/200000001)
+- [발표자 2]   : [도기범](https://github.com/GBDO)
 - [발표자료 2] :
 - [발표영상 2] : 
