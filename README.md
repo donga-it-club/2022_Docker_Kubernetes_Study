@@ -90,8 +90,4 @@
 
 - [발표자 1]   : [황진성](https://github.com/JinseongHwang)
 - [발표자료 1] : [발표자료 PDF](https://github.com/donga-it-club/Docker_Kubernetes_Study/files/10146135/default.pdf)
-- [발표영상 1] : 
-
-- [발표자 2]   : [도기범](https://github.com/GBDO)
-- [발표자료 2] :
-- [발표영상 2] : 
+- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/16rU-9co-kUdBI9C0P5K_owMp0q8Syxbq/view?usp=sharing
