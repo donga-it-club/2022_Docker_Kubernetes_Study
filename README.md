@@ -84,10 +84,23 @@
 - [발표자료 2] : [발표자료 Blog](https://minseok-study.tistory.com/entry/12-Factor-App)
 - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1huFt3st3dFC6GJb__U5VIh-TMPlz10s3/view?usp=sharing)
 
-### 7주차 (22.12.03 예정)
+### 7주차 (22.12.03)
 
 - [학습내용] : [컨테이너와 서버리스 기술을 통한 디지털 트랜스포메이션](https://www.slideshare.net/awskorea/digital-transformation-by-container-and-servelss-technology-do-hyun-jung-2)
 
 - [발표자 1]   : [황진성](https://github.com/JinseongHwang)
 - [발표자료 1] : [발표자료 PDF](https://github.com/donga-it-club/Docker_Kubernetes_Study/files/10146135/default.pdf)
 - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/16rU-9co-kUdBI9C0P5K_owMp0q8Syxbq/view?usp=sharing)
+
+
+### 8주차 (22.12.24 예정)
+
+- [학습내용] : 
+
+- [발표자 1]   : 
+- [발표자료 1] : 
+- [발표영상 1] : 
+
+- [발표자 2]   : 
+- [발표자료 2] : 
+- [발표영상 2] : 
