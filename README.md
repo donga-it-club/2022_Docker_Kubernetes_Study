@@ -12,8 +12,7 @@
 ## 스터디 방식
 
 - 도현님의 AWS_class_resources 중 **[Running_Containers_on_EKS](https://github.com/serithemage/AWS_class_resources/tree/main/Running_Containers_on_EKS)** 를 통해 도커를 학습하였으며, 쿠버네티스의 경우 
-**[대세는 쿠버네티스(초급~중급)](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)** 를 완료하는 것을 목표로 진행합니다. 
-(쿠버네티스의 경우, "Running_Containers_on_EKS" 로 학습하는 것이 어렵다고 결정 해당 내용은 참고용으로 변경, 학습은 "대세는 쿠버네티스[초급~중급]" 로 하는 것으로 결정  (22.12.03))
+**[대세는 쿠버네티스(초급~중급)](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)** 를 완료하는 것을 목표로 진행합니다. (22.12.03)
 - 세부 목표 : 1. 도커 컨테이너의 이해 2. 오케스트레이션 툴 중 쿠버네티스의 이해와 활용
 - 매주 토요일 18시에 학습내용의 글을 정리 후 발표하는 형식으로 진행됩니다. 
   (주 토요일 17시 변경 의견 (22.11.12) -> 18시로 시간 조정 의견 (22.11.19) -> 테스트 후 변경(22.11.26))
@@ -94,6 +93,8 @@
 - [발표자료 1] : [발표자료 PDF](https://github.com/donga-it-club/Docker_Kubernetes_Study/files/10146135/default.pdf)
 - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/16rU-9co-kUdBI9C0P5K_owMp0q8Syxbq/view?usp=sharing)
 
+- [결정사항]
+1. 쿠버네티스의 경우, "Running_Containers_on_EKS" 로 학습하는 것이 어렵다고 결정 해당 내용은 참고용으로 변경, 학습은 "대세는 쿠버네티스[초급~중급]" 로 하는 것으로 결정  (22.12.03)
 
 ### 8주차
 
