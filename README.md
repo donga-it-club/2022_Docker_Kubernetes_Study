@@ -94,7 +94,7 @@
 - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/16rU-9co-kUdBI9C0P5K_owMp0q8Syxbq/view?usp=sharing)
 
 - [결정사항]
-1. 쿠버네티스의 경우, "Running_Containers_on_EKS" 로 학습하는 것이 어렵다고 결정 해당 내용은 참고용으로 변경, 학습은 "대세는 쿠버네티스[초급~중급]" 로 하는 것으로 결정  (22.12.03)
+   1. 쿠버네티스의 경우, "Running_Containers_on_EKS" 로 학습하는 것이 어렵다고 결정 해당 내용은 참고용으로 변경, 학습은 "대세는 쿠버네티스[초급~중급]" 로 하는 것으로 결정  (22.12.03)
 
 ### 8주차
 
