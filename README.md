@@ -113,3 +113,11 @@
   -> 시청 시간에 유동성을 위해 개별 시청시, 보는 것과 예상 사용시간 오픈채팅방에 
   5. 1월 7일 대리 진행자 결정 
   -> 추가 모집 이후, 황진성님께서 OT 진행 예정 
+  
+### 9주차 (23.01.07)
+
+- 겨울방학 스터디 OT 진행
+
+- [발표자 1]   : [황진성](https://github.com/JinseongHwang)
+- [발표자료 1] : [발표자료 PDF](https://github.com/donga-it-club/Docker_Kubernetes_Study/files/10365863/230107._.OT.pdf)
+
