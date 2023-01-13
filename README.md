@@ -1,4 +1,4 @@
-# Docker_Kubernetes_Study
+# 2022_Docker_Kubernetes_Study
 동아대 IT 취업 동아리의 **도커/쿠버네티스** 스터디입니다.
 
 ## 스터디 멤버
