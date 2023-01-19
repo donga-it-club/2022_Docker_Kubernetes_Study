@@ -139,12 +139,22 @@
 
 ### 11주차 (23.01.19)
 
-- [학습내용] : [섹션3.[기초편]기본 오브젝트](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
-
+- [학습내용 1] : AWS ECS를 관한 적인 설명 및 클러스터 생성 실습 
 - [발표자 1]   : [황진성](https://github.com/JinseongHwang)
-- [발표자료 1] :
-- [발표영상 1] :
+- [발표영상 1] : 
 
+- [학습내용 2] : [섹션3.[기초편]기본 오브젝트](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 - [발표자 2]   : [최승현](https://github.com/Vulter3653)
+- [발표자료 2] :
+- [발표영상 2] :
+
+### 12주차 (23.01.26)
+
+- [학습내용] : [섹션4.[기초편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
+- [발표자 1]   : [안주형](https://github.com/dkswnkk)
+- [발표자료 1] :
+- [발표영상 1] : 
+
+- [발표자 2]   : [도기범](https://github.com/GBDO)
 - [발표자료 2] :
 - [발표영상 2] :
