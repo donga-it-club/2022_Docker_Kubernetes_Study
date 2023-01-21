@@ -144,9 +144,8 @@
 - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1ZDPJxlmGGe7o_MhwYHYvV85gXL-Uf15Z/view?usp=sharing)
 
 - [학습내용 2] : [섹션3.[기초편]기본 오브젝트](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
-- [발표자 2]   : [최승현](https://g[도커_쿠버네티스_스터디_섹션3_기초편_기본_오브젝트.pdf](https://github.com/donga-it-club/2022_Docker_Kubernetes_Study/files/10471661/_._._.3_._._.pdf)
-ithub.com/Vulter3653)
-- [발표자료 2] : [발표자료 PDF]([Uploading 도커_쿠버네티스_스터디_섹션3_기초편_기본_오브젝트.pdf…]())
+- [발표자 2]   : [최승현](https://github.com/Vulter3653)
+- [발표자료 2] : [발표자료 PDF](https://github.com/donga-it-club/2022_Docker_Kubernetes_Study/files/10471661/_._._.3_._._.pdf)
 - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1A2TIjWc87PZmNh5CEF4wLPdjVgbCLl2V/view?usp=sharing)
 
 ### 12주차 (23.01.26)
