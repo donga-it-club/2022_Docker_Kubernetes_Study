@@ -40,62 +40,62 @@
 
 - [학습내용] : [Running Conatiners on EKS 중 '컨테이너란? 리눅스의 프로세스 격리 기능' 부분](https://www.44bits.io/ko/keyword/linux-container)
 
-- [발표자 1]   : [최승현](https://github.com/Vulter3653)
-- [발표자료 1] : [발표자료 Blog](https://vulter3653.tistory.com/23)
-- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sGA7c7Vu9o5ZXtkuhChI-8_BNU_hSX2o/view?usp=sharing)
+   - [발표자 1]   : [최승현](https://github.com/Vulter3653)
+      - [발표자료 1] : [발표자료 Blog](https://vulter3653.tistory.com/23)
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1sGA7c7Vu9o5ZXtkuhChI-8_BNU_hSX2o/view?usp=sharing)
 
-- [발표자 2]   : [신혜진](https://github.com/toki0411)
-- [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/23)
-- [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/15zuREiqW1MPnnL_efs8QVTvCdL8jhqul/view?usp=sharing)
+   - [발표자 2]   : [신혜진](https://github.com/toki0411)
+      - [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/23)
+      - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/15zuREiqW1MPnnL_efs8QVTvCdL8jhqul/view?usp=sharing)
 
 ### 3주차  (22.10.29)
 
 - [학습내용] : [도커 이미지 빌드와 Dockerfle 기초](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 
-- [발표자 1]   : [도기범](https://github.com/GBDO)
-- [발표자료 1] : [발표자료 Blog](https://ford.tistory.com/43)
-- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1Esj-GbRzkNbwC02IDwgFT7hqRwqdvuZ6/view?usp=sharing)
+   - [발표자 1]   : [도기범](https://github.com/GBDO)
+      - [발표자료 1] : [발표자료 Blog](https://ford.tistory.com/43)
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1Esj-GbRzkNbwC02IDwgFT7hqRwqdvuZ6/view?usp=sharing)
 
 
 ### 4주차 (22.11.12)
 
 - [학습내용] : [도커(Docker) 이미지의 구조](https://www.44bits.io/ko/post/how-docker-image-work)
 
-- [발표자 1]   : [정민석](https://github.com/200000001)
-- [발표자료 1] : [발표자료 Blog](https://minseok-study.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EA%B5%AC%EC%A1%B0)
-- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1QLvCxDxjQ00y2AEuSNFnqGysvqaaSJRu/view?usp=sharing)
+   - [발표자 1]   : [정민석](https://github.com/200000001)
+      - [발표자료 1] : [발표자료 Blog](https://minseok-study.tistory.com/entry/%EB%8F%84%EC%BB%A4Docker-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%9D%98-%EA%B5%AC%EC%A1%B0)
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1QLvCxDxjQ00y2AEuSNFnqGysvqaaSJRu/view?usp=sharing)
 
 ### 5주차 (22.11.19)
 
 - [학습내용] : [도커 컨테이너는 가상머신인가요? 프로세스인가요?](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 
-- [발표자 1]   : [안주형](https://github.com/dkswnkk)
-- [발표자료 1] : [발표자료 Notion](https://dkswnkk.notion.site/02cb560528874a6dbac5d680e100d1a2)
-- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1-RmNn_DnHveDt8PYbatlFj-tgIf4KcVO/view?usp=sharing)
+   - [발표자 1]   : [안주형](https://github.com/dkswnkk)
+      - [발표자료 1] : [발표자료 Notion](https://dkswnkk.notion.site/02cb560528874a6dbac5d680e100d1a2)
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1-RmNn_DnHveDt8PYbatlFj-tgIf4KcVO/view?usp=sharing)
 
-- [발표자 2]   : [최승현](https://github.com/Vulter3653)
-- [발표자료 2] : [발표자료 Blog](https://vulter3653.tistory.com/28)
-- [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1DhkJal2c2r6F7jj17bWrbuNf8_gc9ZzR/view?usp=sharing)
+   - [발표자 2]   : [최승현](https://github.com/Vulter3653)
+      - [발표자료 2] : [발표자료 Blog](https://vulter3653.tistory.com/28)
+      - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1DhkJal2c2r6F7jj17bWrbuNf8_gc9ZzR/view?usp=sharing)
 
 ### 6주차 (22.11.26)
 
 - [학습내용] : [The Twelve-Factor Apps](https://12factor.net/ko/)
 
-- [발표자 1]   : [신혜진](https://github.com/toki0411)
-- [발표자료 1] : [발표자료 Blog](https://toki0411.tistory.com/32)
-- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1-KsPGcFl5lKUEf1jtYUxwkETTarFrq9l/view?usp=sharing)
+   - [발표자 1]   : [신혜진](https://github.com/toki0411)
+      - [발표자료 1] : [발표자료 Blog](https://toki0411.tistory.com/32)
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1-KsPGcFl5lKUEf1jtYUxwkETTarFrq9l/view?usp=sharing)
 
-- [발표자 2]   : [정민석](https://github.com/200000001)
-- [발표자료 2] : [발표자료 Blog](https://minseok-study.tistory.com/entry/12-Factor-App)
-- [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1huFt3st3dFC6GJb__U5VIh-TMPlz10s3/view?usp=sharing)
+   - [발표자 2]   : [정민석](https://github.com/200000001)
+      - [발표자료 2] : [발표자료 Blog](https://minseok-study.tistory.com/entry/12-Factor-App)
+      - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1huFt3st3dFC6GJb__U5VIh-TMPlz10s3/view?usp=sharing)
 
 ### 7주차 (22.12.03)
 
 - [학습내용] : [컨테이너와 서버리스 기술을 통한 디지털 트랜스포메이션](https://www.slideshare.net/awskorea/digital-transformation-by-container-and-servelss-technology-do-hyun-jung-2)
 
-- [발표자 1]   : [황진성](https://github.com/JinseongHwang)
-- [발표자료 1] : [발표자료 PDF](https://github.com/donga-it-club/Docker_Kubernetes_Study/files/10146135/default.pdf)
-- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/16rU-9co-kUdBI9C0P5K_owMp0q8Syxbq/view?usp=sharing)
+   - [발표자 1]   : [황진성](https://github.com/JinseongHwang)
+      - [발표자료 1] : [발표자료 PDF](https://github.com/donga-it-club/Docker_Kubernetes_Study/files/10146135/default.pdf)
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/16rU-9co-kUdBI9C0P5K_owMp0q8Syxbq/view?usp=sharing)
 
 - [결정사항]
    1. 쿠버네티스의 경우, "Running_Containers_on_EKS" 로 학습하는 것이 어렵다고 결정 해당 내용은 참고용으로 변경, 학습은 "대세는 쿠버네티스[초급~중급]" 로 하는 것으로 결정  (22.12.03)
@@ -121,7 +121,7 @@
 - 겨울방학 스터디 OT 진행
 
 - [발표자 1]   : [황진성](https://github.com/JinseongHwang)
-- [발표자료 1] : [발표자료 PDF](https://github.com/donga-it-club/Docker_Kubernetes_Study/files/10365863/230107._.OT.pdf)
+   - [발표자료 1] : [발표자료 PDF](https://github.com/donga-it-club/Docker_Kubernetes_Study/files/10365863/230107._.OT.pdf)
 
 ### 10주차 (23.01.14)
 
@@ -140,72 +140,72 @@
 ### 11주차 (23.01.19)
 
 - [학습내용 1] : AWS ECS를 관한 적인 설명 및 클러스터 생성 실습 
-- [발표자 1]   : [황진성](https://github.com/JinseongHwang)
-- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1ZDPJxlmGGe7o_MhwYHYvV85gXL-Uf15Z/view?usp=sharing)
+   - [발표자 1]   : [황진성](https://github.com/JinseongHwang)
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1ZDPJxlmGGe7o_MhwYHYvV85gXL-Uf15Z/view?usp=sharing)
 
 - [학습내용 2] : [섹션3.[기초편]기본 오브젝트](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
-- [발표자 2]   : [최승현](https://github.com/Vulter3653)
-- [발표자료 2] : [발표자료 PDF](https://github.com/donga-it-club/2022_Docker_Kubernetes_Study/files/10471661/_._._.3_._._.pdf)
-- [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1A2TIjWc87PZmNh5CEF4wLPdjVgbCLl2V/view?usp=sharing)
+   - [발표자 2]   : [최승현](https://github.com/Vulter3653)
+      - [발표자료 2] : [발표자료 PDF](https://github.com/donga-it-club/2022_Docker_Kubernetes_Study/files/10471661/_._._.3_._._.pdf)
+      - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1A2TIjWc87PZmNh5CEF4wLPdjVgbCLl2V/view?usp=sharing)
 
 ### 12주차 (23.01.26)
 
 - [학습내용] : [섹션4.[기초편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
-- [발표자 1]   : [도기범](https://github.com/GBDO)
-- [발표자료 1] : [발표자료 블로그1](https://ford.tistory.com/48), [발표자료 블로그 2](https://ford.tistory.com/49)
-- [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1AeB8gcYxYZM999diPCX-xOGmzSJu1aaQ/view?usp=sharing)
+   - [발표자 1]   : [도기범](https://github.com/GBDO)
+      - [발표자료 1] : [발표자료 블로그1](https://ford.tistory.com/48), [발표자료 블로그 2](https://ford.tistory.com/49)
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1AeB8gcYxYZM999diPCX-xOGmzSJu1aaQ/view?usp=sharing)
 
 ### 12주차 (23.02.04 예정)
 
 - [학습내용 1] : [섹션4.[기초편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
-- [발표자 1]   : [안주형](https://github.com/dkswnkk)
-- [발표자료 1] :
-- [발표영상 1] : 
+   - [발표자 1]   : [안주형](https://github.com/dkswnkk)
+      - [발표자료 1] :
+      - [발표영상 1] : 
 
 - [학습내용 2] : [섹션5.[중급편]Pod](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
-- 
-- [발표자 2]   : [신혜진](https://github.com/toki0411)
-- [발표자료 2] :
-- [발표영상 2] : 
 
-- [발표자 3]   : [정민석](https://github.com/200000001)
-- [발표자료 3] : 
-- [발표영상 3] : 
+   - [발표자 2]   : [신혜진](https://github.com/toki0411)
+      - [발표자료 2] :
+      - [발표영상 2] : 
+
+   - [발표자 3]   : [정민석](https://github.com/200000001)
+       - [발표자료 3] : 
+       - [발표영상 3] : 
 
 ### 13주차 (23.02.09)
 
 - [학습내용] : [섹션6.[중급편]기본 오브젝트](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
-- [발표자 1]   : [황진성](https://github.com/JinseongHwang)
-- [발표자료 1] : 
-- [발표영상 1] : 
+   - [발표자 1]   : [황진성](https://github.com/JinseongHwang)
+      - [발표자료 1] : 
+      - [발표영상 1] : 
 
-- [발표자 2]   : [최승현](https://github.com/Vulter3653)
-- [발표자료 2] : 
-- [발표영상 2] : 
+   - [발표자 2]   : [최승현](https://github.com/Vulter3653)
+      - [발표자료 2] : 
+      - [발표영상 2] : 
 
 ### 14주차 (23.02.16)
 
 - [학습내용] : [섹션6.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
-- [발표자 1]   : [안주형](https://github.com/dkswnkk)
-- [발표자료 1] : 
-- [발표영상 1] : 
+   - [발표자 1]   : [안주형](https://github.com/dkswnkk)
+      - [발표자료 1] : 
+      - [발표영상 1] : 
 
-- [발표자 2]   : [도기범](https://github.com/GBDO)
-- [발표자료 2] : 
-- [발표영상 2] : 
+   - [발표자 2]   : [도기범](https://github.com/GBDO)
+      - [발표자료 2] : 
+      - [발표영상 2] : 
 
 ### 15주차 (23.02.23)
 
 - [학습내용] : [섹션6.[중급편]아키텍쳐](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
-- [발표자 1]   : [신혜진](https://github.com/toki0411)
-- [발표자료 1] : 
-- [발표영상 1] : 
+   - [발표자 1]   : [신혜진](https://github.com/toki0411)
+      - [발표자료 1] : 
+      - [발표영상 1] : 
 
-- [발표자 2]   : [정민석](https://github.com/200000001)
-- [발표자료 2] : 
-- [발표영상 2] : 
+   - [발표자 2]   : [정민석](https://github.com/200000001)
+      - [발표자료 2] : 
+      - [발표영상 2] : 
