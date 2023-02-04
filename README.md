@@ -153,26 +153,20 @@
 - [학습내용] : [섹션4.[기초편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
    - [발표자 1]   : [도기범](https://github.com/GBDO)
-      - [발표자료 1] : [발표자료 블로그1](https://ford.tistory.com/48), [발표자료 블로그 2](https://ford.tistory.com/49)
+      - [발표자료 1] : [발표자료 Blog 1](https://ford.tistory.com/48), [발표자료 Blog 2](https://ford.tistory.com/49)
       - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1AeB8gcYxYZM999diPCX-xOGmzSJu1aaQ/view?usp=sharing)
 
 ### 13주차 (23.02.04 예정)
 
-- [학습내용 1] : [섹션4.[기초편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
+- [학습내용] : [섹션5.[중급편]Pod](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
-   - [발표자 1]   : [안주형](https://github.com/dkswnkk)
-      - [발표자료 1] :
-      - [발표영상 1] : 
+   - [발표자 1]   : [신혜진](https://github.com/toki0411)
+      - [발표자료 2] : [발표자료 Blog](https://toki0411.tistory.com/48)
+      - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1hwKgNfdQEck7-OWMAbmwT-Vyozt6hWuW/view?usp=sharing)
 
-- [학습내용 2] : [섹션5.[중급편]Pod](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
-
-   - [발표자 2]   : [신혜진](https://github.com/toki0411)
-      - [발표자료 2] :
-      - [발표영상 2] : 
-
-   - [발표자 3]   : [정민석](https://github.com/200000001)
-       - [발표자료 3] : 
-       - [발표영상 3] : 
+   - [발표자 2]   : [정민석](https://github.com/200000001)
+       - [발표자료 3] : [발표자료 Blog 1](https://minseok-study.tistory.com/entry/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-POD), [발표자료 Blog 2](https://minseok-study.tistory.com/entry/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-livenessProbe-readinessProbe), [발표자료 Blog 3](https://minseok-study.tistory.com/entry/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-Qos-%ED%81%B4%EB%9E%98%EC%8A%A4-Guaranteed-Burstable-BestEffort), [발표자료 Blog 4](https://minseok-study.tistory.com/entry/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-Node-Scheduling)
+       - [발표영상 3] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1u3GReivLtLH0qFzvhRRI3kPYlMkidNet/view?usp=sharing)
 
 ### 14주차 (23.02.09 예정)
 
