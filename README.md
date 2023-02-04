@@ -139,7 +139,7 @@
 
 ### 11주차 (23.01.19)
 
-- [학습내용 1] : AWS ECS를 관한 적인 설명 및 클러스터 생성 실습 
+- [학습내용 1] : AWS ECS에 관한 기초적인 설명 및 클러스터 생성 실습 
    - [발표자 1]   : [황진성](https://github.com/JinseongHwang)
       - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1ZDPJxlmGGe7o_MhwYHYvV85gXL-Uf15Z/view?usp=sharing)
 
