@@ -156,7 +156,7 @@
       - [발표자료 1] : [발표자료 Blog 1](https://ford.tistory.com/48), [발표자료 Blog 2](https://ford.tistory.com/49)
       - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1AeB8gcYxYZM999diPCX-xOGmzSJu1aaQ/view?usp=sharing)
 
-### 13주차 (23.02.04 예정)
+### 13주차 (23.02.04)
 
 - [학습내용] : [섹션5.[중급편]Pod](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
