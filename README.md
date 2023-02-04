@@ -156,7 +156,7 @@
       - [발표자료 1] : [발표자료 블로그1](https://ford.tistory.com/48), [발표자료 블로그 2](https://ford.tistory.com/49)
       - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1AeB8gcYxYZM999diPCX-xOGmzSJu1aaQ/view?usp=sharing)
 
-### 12주차 (23.02.04 예정)
+### 13주차 (23.02.04 예정)
 
 - [학습내용 1] : [섹션4.[기초편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
@@ -174,7 +174,7 @@
        - [발표자료 3] : 
        - [발표영상 3] : 
 
-### 13주차 (23.02.09)
+### 14주차 (23.02.09 예정)
 
 - [학습내용] : [섹션6.[중급편]기본 오브젝트](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
@@ -186,7 +186,7 @@
       - [발표자료 2] : 
       - [발표영상 2] : 
 
-### 14주차 (23.02.16)
+### 15주차 (23.02.16 예정)
 
 - [학습내용] : [섹션6.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
@@ -198,7 +198,7 @@
       - [발표자료 2] : 
       - [발표영상 2] : 
 
-### 15주차 (23.02.23)
+### 16주차 (23.02.23 예정)
 
 - [학습내용] : [섹션6.[중급편]아키텍쳐](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
