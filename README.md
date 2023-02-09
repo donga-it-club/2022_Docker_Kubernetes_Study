@@ -174,7 +174,7 @@
 
    - [발표자 1]   : [최승현](https://github.com/Vulter3653)
       - [발표자료 1] : [발표자료 Blog](https://vulter3653.tistory.com/38)
-      - [발표영상 1] : [발표영상 구글 드라이브]
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/166daOEA5aYbFKhCU8CeSVakpTn_H16Ai/view?usp=sharing)
 
 ### 15주차 (23.02.16 예정)
 
