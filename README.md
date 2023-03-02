@@ -178,7 +178,7 @@
 
 ### 15주차 (23.03.02 예정)
 
-- [학습내용] : [섹션6.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
+- [학습내용] : [섹션7.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
    - [발표자 1]   : [안주형](https://github.com/dkswnkk)
       - [발표자료 1] : 
@@ -189,7 +189,7 @@
 
 ### 16주차 (23.03.09 예정)
 
-- [학습내용] : [섹션6.[중급편]아키텍쳐](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
+- [학습내용] : [섹션8.[중급편]아키텍쳐](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
    - [발표자 1]   : [신혜진](https://github.com/toki0411)
       - [발표자료 1] : 
