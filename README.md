@@ -176,24 +176,22 @@
       - [발표자료 1] : [발표자료 Blog](https://vulter3653.tistory.com/38)
       - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/166daOEA5aYbFKhCU8CeSVakpTn_H16Ai/view?usp=sharing)
 
-### 15주차 (23.03.02 예정)
+### 15주차 (23.03.02)
 
-- [학습내용] : [섹션7.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
-
-   - [발표자 1]   : [안주형](https://github.com/dkswnkk)
-      - [발표자료 1] : 
-      - [발표영상 1] : 
-
-- [2023.03.02_변경사항]
-  1. 도기범님께서 회사일과 병행이 어려움으로 인해 스터디를 나가셨음
+- [결정사항]
+  1. 기범님께서 취업을 하셔서 회사와 스터디 병행이 어려움으로 인해 나가셨음.
+  2. 발표 변경 사항
+  -> 기존의 발표자였던 주형님과 기범님의 지속적인 참여가 어려움에 따라 혜진님께서  [섹션7.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard) 부분을 발표를 진행하는 것으로 변경
 
 ### 16주차 (23.03.09 예정)
 
-- [학습내용] : [섹션8.[중급편]아키텍쳐](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
+- [학습내용 1] : [섹션7.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
    - [발표자 1]   : [신혜진](https://github.com/toki0411)
       - [발표자료 1] : 
       - [발표영상 1] : 
+      
+- [학습내용 2] : [섹션8.[중급편]아키텍쳐](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
    - [발표자 2]   : [정민석](https://github.com/Minseok-2001)
       - [발표자료 2] : 
