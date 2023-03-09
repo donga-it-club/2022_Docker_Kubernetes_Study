@@ -189,10 +189,10 @@
 
    - [발표자 1]   : [신혜진](https://github.com/toki0411)
       - [발표자료 1] : [발표자료 Blog](https://toki0411.tistory.com/60)
-      - [발표영상 1] : [발표영상 구글 드라이브]
+      - [발표영상 1] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1dkRBYwKBmdy7EECMVAoiauEXleE_A3vH/view?usp=share_link)
       
 - [학습내용 2] : [섹션8.[중급편]아키텍쳐](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
    - [발표자 2]   : [정민석](https://github.com/Minseok-2001)
       - [발표자료 2] : [발표자료 Notion](https://noble-ship-986.notion.site/c1aae5a772c1454abd4bc0cdd39fcf1d)
-      - [발표영상 2] : [발표영상 구글 드라이브]
+      - [발표영상 2] : [발표영상 구글 드라이브](https://drive.google.com/file/d/1URuo8xa7nwyu2k1JQHv35JCcjUwhOSim/view?usp=share_link)
