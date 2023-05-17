@@ -183,7 +183,7 @@
   2. 발표 변경 사항
   -> 기존의 발표자였던 주형님과 기범님의 지속적인 참여가 어려움에 따라 혜진님께서  [섹션7.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard) 부분의 발표를 진행하는 것으로 변경
 
-### 16주차 (23.03.09 예정)
+### 16주차 (23.03.09)
 
 - [학습내용 1] : [섹션7.[중급편]컨트롤러](https://www.inflearn.com/course/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EA%B8%B0%EC%B4%88/dashboard)
 
